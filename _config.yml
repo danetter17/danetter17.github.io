@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Doctor Developer
 header-img: img/home-bg.png
 email: etter.dt@gmail.com
 copyright_name: danetter17
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey from the biological sciences to computer science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  danetter17
